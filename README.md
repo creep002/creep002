@@ -1,5 +1,5 @@
+
 ### Hi there, I'm Kiet! 👋
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Anh Kiet" title="👋 Hi there! I'm Anh Kiet" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🔭 I’m currently studying at Information Technology University ( Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM )
 - 🤔 I’m looking for help with doing some projects
