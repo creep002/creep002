@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently studying at Information Technology University ( Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM )
+- 🔭 I’m currently studying at Information Technology University ( Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM )
+- 🌱 I’m currently learning C++ Propraming, Python and JavaScript.
 - 🤔 I’m looking for help with doing some projects
 - 💬 Ask me if you have any question
 
