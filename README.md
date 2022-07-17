@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently studying at Information Technology Univerrsity ( Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM )
+- 🤔 I’m looking for help with doing some projects
+- 💬 Ask me if you have any question
 
+Thanks you for visiting!
 <!--
 **creep002/creep002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
